@@ -1,0 +1,91 @@
+/*Router*/
+.navbar {
+    margin-bottom: 0px; 
+  }
+
+.nav-link {
+    margin-right: 15px; 
+  }
+
+.nav-link:hover {
+    text-decoration: underline; 
+  }
+
+/*Page*/
+.home {
+    background-color: #F5FFFA;
+    height: 100vh;
+    margin: 0;
+    padding: 20px;
+}
+
+.contact {
+    background-color: #F0FFF0; 
+    height: 100vh;
+    margin: 0;
+    padding: 20px;
+}
+
+.information {
+    background-color: #E6FFFF; 
+    height: 100vh;
+    margin: 0;
+    padding: 20px;
+}
+
+.assessment {
+    background-color: #E0FFFF; 
+    height: 100vh;
+    margin: 0;
+    padding: 20px;
+}
+
+.homecare {
+    background-color: #F0FFFF; 
+    height: 100vh;
+    margin: 0;
+    padding: 20px;
+}
+
+.subsidy {
+    background-color: #F0F8FF; 
+    height: 100vh;
+    margin: 0;
+    padding: 20px;
+}
+
+.diet {
+    background-color: #EFFFFD; 
+    height: 100vh;
+    margin: 0;
+    padding: 20px;
+}
+
+.reablement {
+    background-color: #FFF5EE; 
+    height: 100vh;
+    margin: 0;
+    padding: 20px;
+}
+
+.assistivedevice {
+    background-color: #B0E0E6; 
+    height: 100vh;
+    margin: 0;
+    padding: 20px;
+}
+
+.transportation {
+    background-color: #FFFFF0; 
+    height: 100vh;
+    margin: 0;
+    padding: 20px;
+}
+
+/*Img*/
+.home-image {
+    width: 300px;
+    height: auto;
+
+  }
+  
